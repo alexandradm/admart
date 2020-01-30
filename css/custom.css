@@ -1,0 +1,41 @@
+html {
+  border: 8px solid #00a0c4;
+  margin: 10px;
+  height: 680px;
+}
+h2 {
+  font-size: 26pt;
+}
+h3 {
+  font-family: 'Source Code Pro', monospace;
+  color: red;
+}
+body {
+  font-family: 'Bowlby One SC', cursive;
+}
+.blue-bg {
+  background-color: #00a0c4;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+.red-bg {
+  background-color: red;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+.name {
+  height: 150px;
+}
+
+a:hover {
+  border: 3px solid red;
+  text-decoration: none;
+  display: block;
+}
+.image a:hover {
+  border: 3px solid red;
+  text-decoration: none;
+  display:inline;
+}
