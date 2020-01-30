@@ -39,3 +39,15 @@ a:hover {
   text-decoration: none;
   display:inline;
 }
+
+@media only screen and (max-width: 600px) {
+  html {
+    border: none;
+  }
+  div {
+    margin: 10px !important;
+  }
+  h2 {
+    font-size: 14pt;
+  }
+}
