@@ -46,6 +46,10 @@ a:hover {
   text-decoration: none;
   display:inline;
 }
+.arrow a:hover {
+  border: none;
+  display:inline;
+}
 
 @media only screen and (max-width: 700px) {
   html {
