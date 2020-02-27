@@ -1,7 +1,7 @@
 html {
   border: 8px solid #00a0c4;
   margin: 10px;
-  height: 680px;
+  height: 800px;
 }
 .post {
   border: none;
@@ -45,6 +45,10 @@ a:hover {
   border: 3px solid red;
   text-decoration: none;
   display:inline;
+}
+
+.move img {
+  align-self: flex-end;
 }
 .arrow a:hover {
   border: none;
